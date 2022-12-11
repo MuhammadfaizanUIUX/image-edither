@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.div1,.div2,.div3,.div4,.div5{
+    background-attachment: fixed;
+}
+.div1{
+    background-image: url(/image/224-2245134_beautiful-peaceful-nature-background.jpg) ,url(/image/3afda9fff30a7e792a9fdf819267a536.jpeg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:contain,cover ;
+}
+.div2{
+    background-image: url(/image/1320623.jpg) ,url(/image/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-preview.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:contain,cover ;
+}
+.div3{
+    background-image: url(/image/pexels-stijn-dijkstra-2583852.jpg) ,url(/image/maxresdefault.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:contain,cover ;
+}
+.div4{
+    background-image: url(/image/pexels-stijn-dijkstra-2583852.jpg) ,url(/image/photo-1534270804882-6b5048b1c1fc.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:contain,cover ;
+}
+.div5{
+    background-image: url(/image/republic-of-palau-micronesia-wallpaper-preview.jpg) ,url(/image/wp1993619.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:contain,cover ;
+}
